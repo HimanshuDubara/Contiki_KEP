@@ -10,4 +10,3 @@ For Nerdy Linux Users: https://www.youtube.com/watch?v=MSqYGkZPhVw&t=613s
 
 For Rich IoS users: https://inrg.soe.ucsc.edu/howto-setup-instant-contiki-with-virtualbox/
 
-This repo contains codes you will use during the session.
